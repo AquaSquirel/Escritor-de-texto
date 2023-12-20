@@ -1,0 +1,10 @@
+Texto de Matt
+
+(texto de exemplo) o texto é formatado, quebrando linha de
+10 em 10 palavras, e é capitalizado. após isso é
+salvo em um arquivo como este, entitulado com o nome
+do usúario do windows atual, e tambem é adicionado o
+titulo do texto dentro do arquivo, no final é adicionado
+a data e hora atual de quando foi escrito.
+
+19/12/2023 22:22
